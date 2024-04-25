@@ -8,7 +8,7 @@ Setting up database:
 - If there is an error creating the database I am very sorry, I myself am still unsure how the DDL functions in postgres and it has been a struggle to work with
 
 Using CLI:
-- Navigate to the location of the “project_431.py” file, enter “python python_431.py” into the console (without quotations)
+- Navigate to the location of the “project_431.py” file (same as this readme), enter “python python_431.py” into the console (without quotations)
  - It will Bring you to the home page which will look like this:
 
 
