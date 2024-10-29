@@ -5,7 +5,7 @@ Setting up database:
     --(NOTE: these will need to be populated once created, attempting to query data will result in nothing being returned or an error fetching keys)
 -You may be prompted to enter a username and password, in which case enter your postgres username and password
 -	NOTE: you must edit the “project_431.py” file (can be done with a text editor), at the top of the code, in the first try catch block, update username and password accordingly
-- If there is an error creating the database I am very sorry, I myself am still unsure how the DDL functions in postgres and it has been a struggle to work with
+- If there is an error creating the database I am very sorry, if running the script doesn't work, you may need to copy paste the commands in pgadmin
 
 Using CLI:
 - Navigate to the location of the “project_431.py” file (same as this readme), enter “python python_431.py” into the console (without quotations)
